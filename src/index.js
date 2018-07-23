@@ -10,7 +10,7 @@ import Router from "preact-router";
 
 const features = [
   {
-    name: "Matthieu",
+    name: "Mattou",
     path: "/",
     main: true
   },
